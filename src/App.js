@@ -3,6 +3,12 @@ import './App.css';
 import Lottie from 'react-lottie'
 import animationData from './lotties/partly_cloudy.json';
 
+/* hosting react on github pages for free 
+    - make sure the github repo for the code is public
+    
+    https://betterprogramming.pub/how-to-host-your-react-app-on-github-pages-for-free-919ad201a4cb
+*/
+
 
 function App() {
   const API_KEY = "89c13ea938871f343abc1e564db2d8f9"
