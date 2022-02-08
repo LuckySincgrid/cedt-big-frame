@@ -54,7 +54,3 @@ function App() {
 }
 
 export default App;
-
-// {weatherdataJSON.temp_min}
-// {weatherdataJSON.temp_max}
-// {weatherdataJSON.humidity}
