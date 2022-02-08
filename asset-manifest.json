@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cedt-big-frame/static/css/main.dcb2c4f0.css",
+    "main.js": "/cedt-big-frame/static/js/main.4a9e4bd1.js",
+    "static/js/787.6bb60768.chunk.js": "/cedt-big-frame/static/js/787.6bb60768.chunk.js",
+    "index.html": "/cedt-big-frame/index.html",
+    "main.dcb2c4f0.css.map": "/cedt-big-frame/static/css/main.dcb2c4f0.css.map",
+    "main.4a9e4bd1.js.map": "/cedt-big-frame/static/js/main.4a9e4bd1.js.map",
+    "787.6bb60768.chunk.js.map": "/cedt-big-frame/static/js/787.6bb60768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb2c4f0.css",
+    "static/js/main.4a9e4bd1.js"
+  ]
+}
