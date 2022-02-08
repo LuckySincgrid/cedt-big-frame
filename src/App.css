@@ -4,10 +4,12 @@
   /* display: flex;
   justify-content: center;
   align-items: center; */
-  display: grid;
-  place-items: center;
-  grid-template-columns: 1.4fr .6fr;
-  column-gap: 35px;
+  /* display: grid; */
+  /* place-items: center; */
+  /* grid-template-columns: 1.4fr .6fr; */
+  /* column-gap: 35px; */
+  display: flex;
+  justify-content: space-around;
   margin: 0px auto;
   /* background-color: chartreuse; */
 }
@@ -15,7 +17,7 @@
 .App_info {
   /* background-color: aquamarine; */
   padding-left: 0.5rem;
-  font-size: 0.42rem;
+  font-size: 0.8rem;
   color: #F26E3F;
 }
 

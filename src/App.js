@@ -51,8 +51,8 @@ function App() {
       <div className="App_animation">
          <Lottie 
             options={defaultOptions}
-              height={50}
-              width={50}
+              height={130}
+              width={130}
       />
       </div>  
     </div>

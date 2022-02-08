@@ -1,6 +1,6 @@
 html {
-  height: 200px;
-  width: 600px;
+  height: 9rem;
+  width: 60rem;
   border: 2px solid #F26E3F;
   border-radius: 1rem;
 }
@@ -19,6 +19,7 @@ body {
 
 #root {
   /* background-color: burlywood; */
+  width: 100%;
   display: grid;
   place-items: center;
   /* height: fit-content;
