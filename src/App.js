@@ -44,15 +44,15 @@ function App() {
   return (
     <div className="App">
       <div className="App_info">
-        <h2 className="Temp_text">Min. Temperature: {weatherdataJSON.temp_min}&deg;</h2>
-        <h2 className="Temp_text">Max. Temperature: {weatherdataJSON.temp_max}&deg;</h2>
+        <h2 className="Temp_text">Min. Temperature: {weatherdataJSON.temp_min}K</h2>
+        <h2 className="Temp_text">Max. Temperature: {weatherdataJSON.temp_max}K</h2>
         <h2 className="Temp_text">Humidity: {weatherdataJSON.humidity}%</h2>
       </div>
       <div className="App_animation">
          <Lottie 
             options={defaultOptions}
-              height={130}
-              width={130}
+              height={50}
+              width={50}
       />
       </div>  
     </div>

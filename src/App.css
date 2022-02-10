@@ -17,7 +17,7 @@
 .App_info {
   /* background-color: aquamarine; */
   padding-left: 0.5rem;
-  font-size: 0.8rem;
+  font-size: 0.4rem;
   color: #F26E3F;
 }
 
@@ -28,4 +28,20 @@
   place-items: center;
   /* display: flex;
   justify-content: flex-start; */
+}
+
+
+@media  (max-width: 1024px) {
+  .App_info {
+    font-size: 0.3rem; 
+  }
+}
+
+@media only screen and (max-width: 400px) and (min-width: 200px) {
+  .App_info {
+    font-size: 0.3rem; 
+  }
+  .App_animation {
+    display: none;
+  }
 }

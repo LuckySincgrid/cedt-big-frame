@@ -1,6 +1,6 @@
 html {
-  height: 9rem;
-  width: 60rem;
+  height: 4rem;
+  width: 15rem;
   border: 2px solid #F26E3F;
   border-radius: 1rem;
 }
@@ -29,5 +29,19 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@media  (max-width: 1024px) {
+  html {
+    width: 10rem;
+    height: 3rem; 
+  }
+}
+
+@media only screen and (max-width: 400px) and (min-width: 200px)  {
+  html {
+    width: 8rem;
+    height: 3rem; 
+  }
 }
 
