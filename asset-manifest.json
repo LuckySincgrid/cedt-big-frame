@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cedt-big-frame/static/css/main.57f7b019.css",
+    "main.css": "/cedt-big-frame/static/css/main.2974e32f.css",
     "main.js": "/cedt-big-frame/static/js/main.baa25a8e.js",
     "static/js/787.7d1b27bd.chunk.js": "/cedt-big-frame/static/js/787.7d1b27bd.chunk.js",
     "index.html": "/cedt-big-frame/index.html",
-    "main.57f7b019.css.map": "/cedt-big-frame/static/css/main.57f7b019.css.map",
+    "main.2974e32f.css.map": "/cedt-big-frame/static/css/main.2974e32f.css.map",
     "main.baa25a8e.js.map": "/cedt-big-frame/static/js/main.baa25a8e.js.map",
     "787.7d1b27bd.chunk.js.map": "/cedt-big-frame/static/js/787.7d1b27bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57f7b019.css",
+    "static/css/main.2974e32f.css",
     "static/js/main.baa25a8e.js"
   ]
 }
