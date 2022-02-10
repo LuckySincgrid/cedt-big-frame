@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cedt-big-frame/static/css/main.fd4e7808.css",
-    "main.js": "/cedt-big-frame/static/js/main.19cc258a.js",
+    "main.css": "/cedt-big-frame/static/css/main.6b0a6152.css",
+    "main.js": "/cedt-big-frame/static/js/main.baa25a8e.js",
     "static/js/787.7d1b27bd.chunk.js": "/cedt-big-frame/static/js/787.7d1b27bd.chunk.js",
     "index.html": "/cedt-big-frame/index.html",
-    "main.fd4e7808.css.map": "/cedt-big-frame/static/css/main.fd4e7808.css.map",
-    "main.19cc258a.js.map": "/cedt-big-frame/static/js/main.19cc258a.js.map",
+    "main.6b0a6152.css.map": "/cedt-big-frame/static/css/main.6b0a6152.css.map",
+    "main.baa25a8e.js.map": "/cedt-big-frame/static/js/main.baa25a8e.js.map",
     "787.7d1b27bd.chunk.js.map": "/cedt-big-frame/static/js/787.7d1b27bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd4e7808.css",
-    "static/js/main.19cc258a.js"
+    "static/css/main.6b0a6152.css",
+    "static/js/main.baa25a8e.js"
   ]
 }
